@@ -1,0 +1,201 @@
+#content-wrapper, body {
+	background: #000000 none repeat scroll 0 0 !important;
+}
+
+#cmatrix {
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: 0;
+}
+
+body, html {
+    font-family: arial, sans-serif;
+}
+
+body {
+  color: #ddd;
+}
+
+.theme-isu #main-navbar .dropdown-menu > li > a, .theme-isu #main-navbar .dropdown > a, .theme-isu #main-navbar .nav > li > a, .theme-isu #main-navbar .navbar-toggle {
+  color: #ddd;
+}
+
+.pers-info-block {
+  margin: 15px;
+}
+
+.theme-isu #main-navbar .nav + .nav, .theme-isu #main-navbar .nav + .right, .theme-isu #main-navbar li + li {
+	background: #2e2e5e;
+}
+
+.theme-isu.mmc #main-navbar #main-menu-toggle {
+    background: #2e2e5e;
+}
+
+.theme-isu.mmc #main-navbar .navbar-header {
+    background: #2e2e5e;
+	color: #ddd;
+}
+
+.panel-heading {
+  background: #2e2e2e;
+}
+
+.theme-isu.mmc #main-navbar .navbar-header a {
+    color: #ddd;
+}
+
+.panel-padding {
+    padding: 0px !important;
+}
+
+.tab-content.tab-content-bordered {
+  padding: 0px;
+}
+
+.panel-body {
+	background: #3e3e3e;
+}
+
+.theme-isu #main-navbar #main-menu-toggle {
+	background: #2e2e5e;
+}
+
+.theme-isu #main-navbar .navbar-header {
+    background: #2e2e5e;
+  }
+
+.theme-isu #main-navbar .nav>li>a:hover {
+    color:#ffffff;
+    background:#2e2e5e
+}
+
+.theme-isu #main-navbar .dropdown.open>a {
+    border-top:none;
+    border-bottom:none;
+    margin:0;
+    background:#2e2e5e;
+    color:#000;
+}
+
+.theme-isu #main-navbar .dropdown-menu {
+    border-top:none;
+    margin-top:1px;
+    border-width:2px;
+    padding:5px 0;
+}
+
+.theme-isu #main-navbar .dropdown-menu li>a {
+    color:#ddeadd;
+    margin:0 -2px;
+}
+
+.nav-tabs > li > a:active, .nav-tabs > li > a:hover {
+  background-color: rgba(44,44,44,.56);
+  border-bottom-color: #ddd;
+  color: #fff;
+  transition: 0.2s;
+}
+
+.theme-isu #main-navbar .dropdown-menu li>a:hover {
+    background:#1946ba;
+    color:#fff;
+}
+
+.theme-isu #main-menu .navigation li.active>a:after {
+	background: #2e2e5e;
+}
+
+.theme-isu #main-navbar .navbar-form #f50.form-control {
+  border-color: #2e2e2e;
+  background: #3e3e6e;
+}
+
+.theme-isu #main-navbar .navbar-form #f50.form-control:active, .theme-isu #main-navbar .navbar-form #f50.form-control:focus, .theme-isu #main-navbar .navbar-form #f50.form-control:hover {
+  background: #3e3e6e;
+  border-color: #2e2e2e;
+  transition: 0.1s;
+}
+
+#main-navbar li > a.user-menu {
+  border-left: 1px solid #dddddd;
+}
+
+.profile-full-name>span {
+    position: relative;
+    top: -10px;
+    color: white;
+    text-shadow: 0 0 2px rgb(0 0 0 / 90%);
+}
+.page-profile .right-col {
+    margin-top: -50px!important;
+    padding-left: 32px!important;
+}
+
+.page-profile .profile-photo:before {
+  border: 6px solid #3e3e3e
+}
+
+.page-profile .profile-content .tab-content {
+    margin-top: 30px!important;
+	background-color: #000000;
+}
+
+.theme-isu .nav-tabs > li.active > a, .theme-isu .nav-tabs > li.active > a:focus, .theme-isu .nav-tabs > li.active > a:hover {
+  background: #2e2e2e;
+  border-bottom: 2px solid #1e1e1e;
+}
+
+.nav-tabs {
+  border-bottom: 1px solid #1e1e1e;
+}
+
+.nav-tabs > li > a {
+  border-bottom: #1e1e1e;
+}
+
+.panel, .tab-content.tab-content-bordered {
+    border: 0;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.profile-full-name {
+    padding-left: 280px !important;
+}
+
+.text-xs {
+  display: none;
+}
+
+ul.dropdown-menu {
+  border: 2px solid #1e1e5e;
+}
+
+.dropdown-menu {
+  background-color: #2f2f5f;
+}
+
+.btn-success,.btn-success:focus {
+  color: #ddd;
+    border-color: #2e2e5e;
+    background: #2e2e5e;
+}
+
+.btn-success:hover {
+    color: #fff;
+    border-color: #2e2e5e;
+    border-bottom-color: #2e2e5e;
+    background: #2e2e5e!important;
+}
+
+.btn-success.active,.btn-success:active,.open .btn-success.dropdown-toggle {
+    background: 0 0;
+    background: #2e2e5e!important;
+    border-color: #2e2e5e;
+    border-bottom-color: #2e2e5e!important;
+    color: #fff;
+    -webkit-box-shadow: 0 0 12px rgba(0,0,0,.1)inset;
+    box-shadow: 0 0 12px rgba(0,0,0,.1)inset
+}
