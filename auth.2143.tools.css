@@ -137,6 +137,16 @@ body {
   border: 6px solid #3e3e3e
 }
 
+.page-profile .profile-photo {
+  padding: 0;
+  display: inline-block;
+  margin-bottom: 10px;
+  border-radius: 999999px;
+  min-width: 100%;
+  background: black;
+  position: relative;
+}
+
 .page-profile .profile-content .tab-content {
     margin-top: 30px!important;
 	background-color: #000000;
