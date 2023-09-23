@@ -99,8 +99,8 @@ body {
 }
 
 .theme-isu #main-navbar .dropdown-menu li>a:hover {
-    background:#1946ba;
-    color:#fff;
+    background:#1e1e5e;
+    color:#ddd;
 }
 
 .theme-isu #main-menu .navigation li.active>a:after {
